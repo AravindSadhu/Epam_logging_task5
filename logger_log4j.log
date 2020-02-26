@@ -1,0 +1,19 @@
+2020-02-27 02:14;16 ERROR App:15 - Logger is configure correctly
+2020-02-27 02:14;16 INFO  App:16 - Logger is configure correctly
+2020-02-27 02:14;16 DEBUG App:17 - Logger is configure correctly
+2020-02-27 02:14;16 WARN  App:18 - Logger is configure correctly
+2020-02-27 02:14;16 FATAL App:19 - Logger is configure correctly
+2020-02-27 02:14;36 INFO  App:18 - This is ABOVE STANDARD MATERIAL
+2020-02-27 02:14;36 DEBUG App:20 - cost is : 8250.0
+2020-02-27 02:14;36 INFO  App:30 - This is HIGH STANDARD MATERIAL With Fully Automated Home 
+2020-02-27 02:14;36 DEBUG App:32 - cost is : 13750.0
+2020-02-27 02:14;36 INFO  App:12 - This is STANDARD MATERIAL
+2020-02-27 02:14;36 DEBUG App:14 - cost is : 6600.0
+2020-02-27 02:14;37 WARN  App:9 - please enter a positive numbers except 0
+2020-02-27 02:14;37 INFO  App:15 - Simple_Interest Calculator
+2020-02-27 02:14;37 INFO  App:17 - Total Amount: 50.0
+2020-02-27 02:14;37 WARN  App:10 - please enter a positive numbers except 0
+2020-02-27 02:14;37 INFO  App:16 - Compound_Interest Calculator
+2020-02-27 02:14;37 INFO  App:18 - Total Amount: 1333.0992
+2020-02-27 02:14;37 INFO  App:24 - This is HIGH STANDARD MATERIAL
+2020-02-27 02:14;37 DEBUG App:26 - cost is : 9900.0
